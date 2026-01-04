@@ -1,9 +1,9 @@
 # Hola, soy Eva Mera 👋
 
-![Agile & Frontend](https://img.shields.io/badge/Role-Frontend_Dev_%26_Agile_Mentor-teal?style=for-the-badge)
+![Agile & Full Stack](https://img.shields.io/badge/Role-Full_Stack_%26_Agile_Mentor-teal?style=for-the-badge)
 ![PMI-ACP](https://img.shields.io/badge/Goal_2026-PMI--ACP_Certified-blue?style=for-the-badge)
 
-> **Frontend Developer & UX Designer** especializada en arquitecturas escalables y metodologías ágiles. Fusiono la ingeniería de software con la visión de negocio para acelerar equipos y productos digitales.
+> **Full Stack MERN Developer & UX Enginner** especializada en arquitecturas escalables y metodologías ágiles. Fusiono la ingeniería de software con la visión de negocio para acelerar equipos y productos digitales.
 
 ---
 
@@ -36,6 +36,6 @@ Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. M
 
 ## 📫 Conectemos
 
-* 🌐 **Portfolio:** [emmeravivar.github.io](https://emmeravivar.github.io/)
+* 🌐 **Portfolio:** [EMMV](https://emmv.es/)
 * 💼 **LinkedIn:** [/in/evamera](https://www.linkedin.com/in/evamera/)
 * 📧 **Contacto:** info@warriorsintech.tech

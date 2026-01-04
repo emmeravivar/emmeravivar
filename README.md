@@ -12,7 +12,7 @@
 Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. Mi perfil es híbrido:
 * **Engineering:** Vue.js, React, Angular & MERN Stack.
 * **Management:** Experta en procesos Ágiles (Scrum/Kanban) y futura PMI-ACP (2026).
-* **Mentoring:** +500 alumnos formados en bootcamps internacionales (Emeritus, TripleTen).
+* **Mentoring:** +500 alumnos formados en bootcamps internacionales (Emeritus).
 
 ---
 

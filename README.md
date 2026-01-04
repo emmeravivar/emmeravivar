@@ -29,9 +29,11 @@ Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. M
 ## 🚀 Portfolio Destacado
 
 ### 🍎 Educación & Mentoring
-*Recursos didácticos y starter-kits para mis alumnos de Bootcamps.*
-**[First React App From Scratch](https://github.com/emmeravivar/first-react-app-from-scratch)**: Starter kit educativo donde configuramos React desde cero (sin herramientas automáticas) para entender la arquitectura base y el funcionamiento de las librerías.
+*Recursos didácticos y starter-kits para mis alumnos de Bootcamps.
+* **[First React App From Scratch](https://github.com/emmeravivar/first-react-app-from-scratch)**: Starter kit educativo donde configuramos React desde cero (sin herramientas automáticas) para entender la arquitectura base y el funcionamiento de las librerías.
+* ** https://github.com/emmeravivar/labs-from-educational-coding
 
+  
 ### 📊 Data Analytics & Science
 *Aplicando conocimientos del Master en Data para extraer valor del código.*
 * **[Proyecto Data Analysis The Power](https://github.com/emmeravivar/proyecto-an-lisis-datos-the-power-2025)**: Proyecto integral de análisis de datos (EDA) y visualización estratégica, aplicando técnicas de Data Science para la toma de decisiones basada en datos.

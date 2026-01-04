@@ -30,7 +30,7 @@ Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. M
 
 ### 🍎 Educación & Mentoring
 *Recursos didácticos y starter-kits para mis alumnos de Bootcamps.*
-* **[Nombre del Repo Educativo]**: Starter kit para aprender React con buenas prácticas.
+* **First **: Starter kit para aprender como funcionan las librerías con React. [First React App From Scratch](https://github.com/emmeravivar/first-react-app-from-scratch)
 * **[Nombre del Taller]**: Material de apoyo para taller de metodologías ágiles en desarrollo.
 
 ### 📊 Data Analytics & Science

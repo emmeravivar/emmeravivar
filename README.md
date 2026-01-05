@@ -29,15 +29,18 @@ Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. M
 ## 🚀 Portfolio Destacado
 
 ### 🍎 Educación & Mentoring
-*Recursos didácticos y starter-kits para mis alumnos de Bootcamps.
+*Recursos didácticos y starter-kits para mis alumnos de Bootcamps.*
 * **[First React App From Scratch](https://github.com/emmeravivar/first-react-app-from-scratch)**: Starter kit educativo donde configuramos React desde cero (sin herramientas automáticas) para entender la arquitectura base y el funcionamiento de las librerías.
-* ** https://github.com/emmeravivar/labs-from-educational-coding
+* **[Educational Coding Labs](https://github.com/emmeravivar/labs-from-educational-coding)**: Colección monorepo de laboratorios paso a paso (Backend & Frontend) utilizados en mis sesiones de mentoring.
 
-  
 ### 📊 Data Analytics & Science
 *Aplicando conocimientos del Master en Data para extraer valor del código.*
 * **[Proyecto Data Analysis The Power](https://github.com/emmeravivar/proyecto-an-lisis-datos-the-power-2025)**: Proyecto integral de análisis de datos (EDA) y visualización estratégica, aplicando técnicas de Data Science para la toma de decisiones basada en datos.
 
+### 🔌 API & Full Stack
+*Arquitecturas MERN y soluciones escalables.*
+* **[MERN Auth Boilerplate 2024](https://github.com/emmeravivar/boilerplate-full-stack-MERN-auth-2024)**: Arquitectura Full Stack lista para producción. Incluye sistema completo de autenticación (JWT), gestión de estado protegida, enrutado seguro y conexión optimizada a MongoDB.
+* **[Grid System Boilerplate](https://github.com/emmeravivar/boilerplate-grid-system)**: Sistema de rejilla CSS/SCSS propio, desarrollado con asistencia de IA para enseñar fundamentos de Responsive Design sin frameworks.
 
 ---
 

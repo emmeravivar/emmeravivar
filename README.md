@@ -1,22 +1,22 @@
-# Hola, soy Eva Mera 👋
+# Hi, I'm Eva Mera 👋
 
 ![Agile & Full Stack](https://img.shields.io/badge/Role-Full_Stack_%26_Agile_Mentor-teal?style=for-the-badge)
 ![PMI-ACP](https://img.shields.io/badge/Goal_2026-PMI--ACP_Certified-blue?style=for-the-badge)
 
-> **Full Stack MERN Developer & UX Engineer** especializada en arquitecturas escalables y metodologías ágiles. Fusiono la ingeniería de software con la visión de negocio para acelerar equipos y productos digitales.
+> **Full Stack MERN Developer & UX Engineer** specializing in scalable architectures and agile methodologies. I bridge the gap between software engineering and business vision to accelerate teams and digital products.
 
 ---
 
-## 👩‍💻 Sobre mí
+## 👩‍💻 About Me
 
-Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. Mi perfil es híbrido:
+I currently lead technical and educational initiatives at **Warriors In Tech**. My profile is hybrid:
 * **Engineering:** Vue.js, React, Angular & MERN Stack.
-* **Management:** Experta en procesos Ágiles (Scrum/Kanban) y futura PMI-ACP (2026).
-* **Mentoring:** +500 alumnos formados en bootcamps internacionales (Emeritus, TripleTen).
+* **Management:** Expert in Agile processes (Scrum/Kanban) and future PMI-ACP (2026).
+* **Mentoring:** +500 students trained in international bootcamps (Emeritus, TripleTen).
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 | Frontend | Backend & Data | Agile & Tools |
 | :--- | :--- | :--- |
@@ -26,25 +26,25 @@ Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. M
 
 ---
 
-## 🚀 Portfolio Destacado
+## 🚀 Featured Portfolio
 
-### 🍎 Educación & Mentoring
-*Recursos didácticos y starter-kits para mis alumnos de Bootcamps.*
-* **[First React App From Scratch](https://github.com/emmeravivar/first-react-app-from-scratch)**: Starter kit educativo donde configuramos React desde cero (sin herramientas automáticas) para entender la arquitectura base y el funcionamiento de las librerías.
-* **[Educational Coding Labs](https://github.com/emmeravivar/labs-from-educational-coding)**: Colección monorepo de laboratorios paso a paso (Backend & Frontend) utilizados en mis sesiones de mentoring.
+### 🍎 Education & Mentoring
+*Didactic resources and starter-kits for my Bootcamp students.*
+* **[First React App From Scratch](https://github.com/emmeravivar/first-react-app-from-scratch)**: Educational starter kit where we configure React from scratch (no automatic tools) to understand the base architecture and core library mechanics.
+* **[Educational Coding Labs](https://github.com/emmeravivar/labs-from-educational-coding)**: A monorepo collection of step-by-step labs (Backend & Frontend) used during my mentoring sessions.
 
 ### 📊 Data Analytics & Science
-*Aplicando conocimientos del Master en Data para extraer valor del código.*
-* **[Proyecto Data Analysis The Power](https://github.com/emmeravivar/proyecto-an-lisis-datos-the-power-2025)**: Proyecto integral de análisis de datos (EDA) y visualización estratégica, aplicando técnicas de Data Science para la toma de decisiones basada en datos.
+*Applying Data Science knowledge to extract business value.*
+* **[Data Analysis Project: The Power](https://github.com/emmeravivar/proyecto-an-lisis-datos-the-power-2025)**: Comprehensive Exploratory Data Analysis (EDA) and strategic visualization project, applying Data Science techniques for data-driven decision making.
 
 ### 🔌 API & Full Stack
-*Arquitecturas MERN y soluciones escalables.*
-* **[MERN Auth Boilerplate 2024](https://github.com/emmeravivar/boilerplate-full-stack-MERN-auth-2024)**: Arquitectura Full Stack lista para producción. Incluye sistema completo de autenticación (JWT), gestión de estado protegida, enrutado seguro y conexión optimizada a MongoDB.
-* **[Grid System Boilerplate](https://github.com/emmeravivar/boilerplate-grid-system)**: Sistema de rejilla CSS/SCSS propio, desarrollado con asistencia de IA para enseñar fundamentos de Responsive Design sin frameworks.
+*MERN Architectures and scalable solutions.*
+* **[MERN Auth Boilerplate 2024](https://github.com/emmeravivar/boilerplate-full-stack-MERN-auth-2024)**: Production-ready Full Stack architecture. Includes a complete authentication system (JWT), protected state management, secure routing, and optimized MongoDB connection.
+* **[Grid System Boilerplate](https://github.com/emmeravivar/boilerplate-grid-system)**: Custom CSS/SCSS grid system, developed with AI assistance to teach Responsive Design fundamentals without heavy frameworks.
 
 ---
 
-## 📈 Mis Estadísticas
+## 📈 My Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=emmeravivar&show_icons=true&theme=radical&hide_border=true" alt="Eva Mera Stats" />
@@ -52,8 +52,8 @@ Actualmente lidero iniciativas técnicas y educativas en **Warriors In Tech**. M
 
 ---
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
 * 🌐 **Portfolio:** [EMMV](https://emmv.es/)
 * 💼 **LinkedIn:** [/in/evamera](https://www.linkedin.com/in/evamera/)
-* 📧 **Contacto:** info@warriorsintech.tech
+* 📧 **Contact:** info@warriorsintech.tech
